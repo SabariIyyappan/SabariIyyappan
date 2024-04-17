@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabariIyyappan, B.Tech Graduate at SASTRA University, India
+- 👋 Hi, I’m @SabariIyyappan D, AI Enthusiast..!
 - 👀 I’m interested in learning and working on every facets of Artificial Intelligence like Data Science, ML, DL and more. 
 
   Currently working on machine learning and deep learning projects.
